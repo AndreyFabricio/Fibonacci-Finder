@@ -131,17 +131,25 @@ public class FibonacciFinder extends JFrame implements ActionListener {
 	        	else {
 	        		
 	        		while (last + sec <= N) {
-	        			// TODO: proximidade (Ex: 12 deve imprimir até 13, mas 10 deve imprimir até 8)
+	        			// TODO: proximity (Ex: 12 should print up to 13, but 10 should print up to 8)
 	        			next = last + sec;
 	        			sec = last;
 	        			last = next;
 	        			fbnSequence += ", " + next;	        			
 	        			
+	        			// N = 7 | last = 5 | sec = 3
+	        			// se last+sec-N < N-last	        			
+	        		}	      
+	        		
+	        		if ((last + sec) - N < N - last) {
+	        			
+	        			fbnSequence += ", " + (last + sec);
+	        			
 	        		}
 	        		
-	        		fbnTextField.setText(fbnSequence);
-	        		
 	        	}
+	        	        		
+        		fbnTextField.setText(fbnSequence);
 	        	
 	        }	        
 	        
