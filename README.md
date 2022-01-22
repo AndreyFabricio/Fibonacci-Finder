@@ -1,11 +1,9 @@
 # Fibonacci-Finder
-This project generates the Fibonacci sequence to a number or to the closest Nth number in the sequence
+
+This program accepts a value from the user, says whether or not the value is in the Fibonacci sequence and prints the sequence up to that value or to the value closest to it in the sequence
 
 ## Requirements
 - To run the program you need java jre version 1.8.0 or higher that can be found [here](https://java.com/en/download/manual.jsp)
-
-## What does this program do?
-- The program accepts a value from the user, says whether or not the value is in the Fibonacci sequence and prints the sequence up to that value or to the value closest to it
 
 ## Limitations
 
