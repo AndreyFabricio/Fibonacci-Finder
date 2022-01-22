@@ -15,25 +15,33 @@ This program accepts a value from the user, says whether or not the value is in 
 ## The program Running
 
 The program home screen
+
 ![1](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/1.PNG)
 
 Example of error (invalid value)
+
 ![2](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/2.PNG)
 
 Another example of error (negative number)
+
 ![3](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/3.PNG)
 
 Another example of error (not a [Long](https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html))
+
 ![4](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/4.PNG)
 
 Example of the program running with a number that is not in the Fibonacci sequence
+
 ![5](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/5.PNG)
 
 Example of the program running with a number that is in the Fibonacci sequence
+
 ![6](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/6.PNG)
 
 Another example of the program running with a number that is in the Fibonacci sequence
+
 ![7](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/7.PNG)
 
 Example of a big number that is a [Long](https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html) and is not in the Fibonacci sequence
+
 ![8](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/8.PNG)
