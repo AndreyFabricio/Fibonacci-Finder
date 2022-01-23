@@ -3,7 +3,25 @@
 This program accepts a value from the user, says whether or not the value is in the Fibonacci sequence and prints the sequence up to that value or to the value closest to it in the sequence
 
 ## Requirements
+
 - To run the program you need java jre version 1.8.0 or higher that can be found [here](https://java.com/en/download/manual.jsp)
+
+## Installing
+
+- The program does not need to be installed, just download the Jar file and run it
+- The Jar file can be downloaded by clicking [here](https://github.com/AndreyFabricio/Fibonacci-Finder/releases/download/1.0.2/FibonacciFinder.jar)
+
+## Common problems
+
+**The program does not open on my machine**
+
+If you didn't, try download the java jre version 1.8.0 or higher that can be found [here](https://java.com/en/download/manual.jsp)
+
+**The program is asking to select a default program to run**
+
+Right click on the Jar file, then go to "Open With..." and then click "More Applications". In the list that opened you must choose the option "Java(TM) Platform SE Binary" and then click ok
+
+![Jar](https://github.com/AndreyFabricio/Fibonacci-Finder/blob/main/FibonacciFinder%20images/default-java-open.png)
 
 ## Limitations
 
