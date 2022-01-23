@@ -213,7 +213,7 @@ public class FibonacciFinder extends JFrame implements ActionListener {
 	    public static void main(String[] args) {
 		
 		FibonacciFinder frame=new FibonacciFinder(); // Creates a new frame
-        frame.setTitle("NthPI"); // Sets the title
+        frame.setTitle("Fibonacci Finder"); // Sets the title
         frame.setVisible(true); // Makes the frame visible
         frame.setBounds(10,10,500,600); // Defines the bounds of the frame
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //Programs closes when exits
